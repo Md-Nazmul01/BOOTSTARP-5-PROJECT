@@ -1,0 +1,17 @@
+ /* color
+* defult
+* primary
+* success  
+* warning
+* danger
+* secondary
+* white
+* dark (defult)
+* body  */
+.navbar-brand,footer .text-center{
+    text-shadow: 3px 3px 0px black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.navbar-brand span,footer .text-center span{
+    text-shadow: 3px 3px 0px blue;
+}
